@@ -10,7 +10,8 @@ https://www.exchangerate-api.com/docs/supported-currencies</p>
 
 <p>
    Para utilizarlo debes ejecutar el .Jar que encuentras en este repositorio
-   ![](https://github.com/mikablades/conversorDeDivisas/assets/148806650/9ee9d46a-386f-4c02-ad7b-51c541f2da41)
+   <img aling="center" src="![Captura de pantalla 2024-04-25 122922](https://github.com/mikablades/conversorDeDivisas/assets/148806650/e248eeef-3003-4616-a7f4-a6d5a902944e)"
+"
 
 ![Captura de pantalla 2024-04-25 123116](https://github.com/mikablades/conversorDeDivisas/assets/148806650/d9c89748-0fe1-443b-994d-507b9f59449b)
 ![Captura de pantalla 2024-04-25 123802](https://github.com/mikablades/conversorDeDivisas/assets/148806650/c4c10143-92cf-437e-a7e6-94906377a612)
