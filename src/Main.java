@@ -9,12 +9,12 @@ public class Main {
                                 BIENVENIDO
                 Monedas disponibles para cambio:
                 
-                    ARS - Peso argentino
-                    BOB - Boliviano boliviano
-                    BRL - Real brasileño
-                    CLP - Peso chileno
-                    COP - Peso colombiano
-                    USD - Dólar estadounidense
+                    USD - Dólar Estadounidense
+                    CLP - Peso Chileno
+                    ARS - Peso Argentino
+                    BRL - Real Brasileño
+                    BOB - Peso Boliviano
+                    COP - Peso Colombiano
                     
                *********************************************
                 """;
