@@ -8,7 +8,7 @@ public class Main {
                |==================================================|
                |                  Rare Exchange                   |
                |    Monedas disponibles para tu extraño cambio:   |
-               |                                                  |     
+               |                                                  |
                |       KGS - Kyrgyzstani Som (Kyrgyzstan)         |
                |       CLP - Peso Chileno                         |
                |       MOP - Macanese Pataca (Macau)              |
@@ -17,7 +17,7 @@ public class Main {
                |       WST - Samoan Tālā (Samoa)                  |
                |                                                  |
                |==================================================|
-                """;
+               """;
 
 
         Scanner input = new Scanner(System.in);
