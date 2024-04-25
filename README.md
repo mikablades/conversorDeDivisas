@@ -9,8 +9,13 @@
 https://www.exchangerate-api.com/docs/supported-currencies</p>
 
 <p>
-   Para utilizarlo debes ejecutar el .Jar que encuentras en este repositorio
+   Para utilizarlo debes descargar ejecutar el .Jar (conversorDeDivisas.jar) que encuentras en este repositorio
+   para ejecutarlo debes tener Java instalado en tu computadora, abrir una Terminal en desde la carpeta donde
+   guardaste el conversorDeDivisas.jar y ejecutar el siguiente comando:
+   java -jar .\conversorDeDivisas.jar
 </p>
+![Captura de pantalla 2024-04-25 123802](https://github.com/mikablades/conversorDeDivisas/assets/148806650/fcc2380a-f02c-47e5-9cc0-19ce2338ed1e)
+
 ![Captura de pantalla 2024-04-25 124511](https://github.com/mikablades/conversorDeDivisas/assets/148806650/405df875-6223-42d1-a11c-52c49045397f)
 
 Mika Cantú
