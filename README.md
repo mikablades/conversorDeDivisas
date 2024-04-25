@@ -2,15 +2,15 @@
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    </p>
 <h2>Conversor de divisas para el challenge de Alura</h2>
-<p>Es un conversor de monedas simple alimentado por la API de exchangerate-api.com.</p>
+<p>Conversor de monedas simple alimentado por la API de exchangerate-api.com.</p>
 
 
 <p>Nuestro conversor de divisas soporta todas las divisas que brinda la API, puedes consultarlos en el siguiente link:
-https://www.exchangerate-api.com/docs/supported-currencies</p>
+https://www.exchangerate-api.com/docs/supported-currencies </p>
 
 <p>
-   Para utilizarlo debes descargar ejecutar el .Jar (conversorDeDivisas.jar) que encuentras en este repositorio
-   para ejecutarlo debes tener Java instalado en tu computadora, abrir una Terminal en desde la carpeta donde
+   Para utilizarlo debes descargar y ejecutar el .Jar (conversorDeDivisas.jar) que encuentras en este repositorio
+   para ejecutarlo debes tener Java 17 instalado en tu computadora, abrir una Terminal en desde la carpeta donde
    guardaste el conversorDeDivisas.jar y ejecutar el siguiente comando:
    java -jar .\conversorDeDivisas.jar
 </p>
