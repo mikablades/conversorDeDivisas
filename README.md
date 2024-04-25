@@ -14,6 +14,7 @@ https://www.exchangerate-api.com/docs/supported-currencies </p>
    guardaste el conversorDeDivisas.jar y ejecutar el siguiente comando:
    java -jar .\conversorDeDivisas.jar
 </p>
+
 ![Captura de pantalla 2024-04-25 123802](https://github.com/mikablades/conversorDeDivisas/assets/148806650/fcc2380a-f02c-47e5-9cc0-19ce2338ed1e)
 
 ![Captura de pantalla 2024-04-25 124511](https://github.com/mikablades/conversorDeDivisas/assets/148806650/405df875-6223-42d1-a11c-52c49045397f)
