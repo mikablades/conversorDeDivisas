@@ -32,7 +32,7 @@ public class Main {
             double valorSalida = input.nextDouble();
             var convertido = ConsultaRates.consulta(divOrigen, divSalida,valorSalida);
             System.out.println("--------------------------------------------------\n"
-                    +"El valor de"+ valorSalida + " "
+                    +"El valor de "+ valorSalida + " "
                     + divOrigen + " es igual a "
                     + convertido + " " + divSalida +"\n"+
                     "--------------------------------------------------");
