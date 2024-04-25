@@ -6,7 +6,8 @@ import java.net.http.HttpResponse;
 
 public class ConsultaRates {
     public static RatesObj consulta(String divOrigen, String divSalida, double valorSalida) {
-        URI direccion = URI.create("https://v6.exchangerate-api.com/v6/15eaee3648c4d592d7252421/pair/" + divOrigen + "/" + divSalida + "/" + valorSalida);
+        URI direccion = URI.create("https://v6.exchangerate-api.com/v6/15eaee3648c4d592d7252421/pair/"
+                + divOrigen + "/" + divSalida + "/" + valorSalida);
         HttpClient client = HttpClient.newHttpClient();
         HttpRequest request = HttpRequest.newBuilder()
                 .uri(direccion)
